@@ -3,9 +3,9 @@
 It is an application designed to manage images using Create, Update and Delete (CUD) operations. This tool provides a simple and efficient interface for managing image files, facilitating their management without the need for additional reading operations.
 
 # Features
-`Create:` Allows you to add new images to the database or storage.
-`Update:` Makes it easy to modify existing images.
-`Delete:` Provides a safe way to delete unwanted images.
+`Create:` Allows you to add new images to the database or storage.\
+`Update:` Makes it easy to modify existing images.\
+`Delete:` Provides a safe way to delete unwanted images.\
 
 ### `npm start`
 
