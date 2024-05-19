@@ -1,11 +1,11 @@
 # CUD-IMAGE
 
-Es una aplicación diseñada para gestionar imágenes mediante operaciones de Crear, Actualizar y Eliminar (CUD). Esta herramienta proporciona una interfaz sencilla y eficiente para el manejo de archivos de imagen, facilitando su gestión sin necesidad de operaciones de lectura adicionales.
+It is an application designed to manage images using Create, Update and Delete (CUD) operations. This tool provides a simple and efficient interface for managing image files, facilitating their management without the need for additional reading operations.
 
 # Funcionalidades
-`Crear:` Permite añadir nuevas imágenes a la base de datos o almacenamiento.
-`Actualizar:` Facilita la modificación de imágenes existentes.
-`Eliminar:` Proporciona una forma segura de borrar imágenes no deseadas.
+`Create:` Allows you to add new images to the database or storage.
+`Update:` Makes it easy to modify existing images.
+`Delete:` Provides a safe way to delete unwanted images.
 
 ### `npm start`
 
